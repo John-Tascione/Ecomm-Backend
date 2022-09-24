@@ -1,4 +1,4 @@
-# note-taker
+# ecomm-backend
 Leverage Restful API endpoints to interact with an ecommerce backend database containing categories, products and tags.
 
 ## Description
